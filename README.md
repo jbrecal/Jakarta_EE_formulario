@@ -1,7 +1,7 @@
 # Formulario de Usuarios con Servlets en Java
 ## Java | Maven | JakartaEE
 
-<p>Este proyecto es un ejemplo práctico desarrollado como parte de un curso de que he realizadp Java, con el objetivo de aprender a construir aplicaciones web utilizando Java Servlets.</p>
+<p>Este proyecto es un ejemplo práctico desarrollado como parte de un curso de que he realizado de Java, con el objetivo de aprender a construir aplicaciones web utilizando Java Servlets.</p>
 
 **Características**
 - Formulario HTML interactivo con Bootstrap 5 para estilos modernos y responsivos.
